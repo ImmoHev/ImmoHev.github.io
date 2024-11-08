@@ -11,21 +11,21 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://ImmoHev.github.io/
+baseurl: 
+title: Tommy Thomas
+author: Tommy Thomas
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: jekyllt/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-medium: username #e.g: NobelPeaceOslo
+avatar: profile.jpg
+email: tommyfthomas@gmail.com
+github: ImmoHev # username
+#twitter: username
+linkedin: tommy-thomas-7717a515b
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#medium: username #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
